@@ -1,0 +1,57 @@
+{
+	"profile":{
+		"img":"v.png",
+		"name":"yamini",
+		"roll":"16NN1A1204",
+		"institute":"vignan nirula",
+		"place":"guntur"
+	},
+	"carrer":{
+		"info":"to secure a challenging position in a reputable organisation to expand my learning,knoledge and skills"
+	},
+
+	"educational":[
+		{
+         "degree":"btech",
+         "institution":"vignan nirula institute of technology",
+         "yop":"2020"
+		},
+		{
+			"degree":"intermediate",
+			"institution":"sri chaitanya",
+			"yop":"2016"
+		},
+		{
+			"degree":"ssc",
+			"institution":"sucess",
+			"yop":"2014"
+		}
+	],
+	
+	"language":[
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"english"
+
+		},
+		{
+			"lang":"hindi"
+		}
+	],
+	"skills":[{
+		"title":"platform",
+		"content":"windows,linux"
+
+	},
+	{
+	 "title":"programming languages",
+	 "content":"c,c++,java"
+	},
+	{
+		"title":"database",
+		"content":"mysql"
+	}
+]
+}
