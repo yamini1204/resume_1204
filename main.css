@@ -64,13 +64,14 @@ img{
 .main{
 	background: #000;
 	display: flex;
-	flex-direction: column;
+	justify-content: center;
+	flex-direction:row;
 	width: 100%;
 	height: auto;
 }
 .left{
 	background: #B3B6B7;
-	width: 50%;
+	width: 45%;
 	text-align: center;
 	height: auto;
 	margin:2%;
@@ -78,7 +79,7 @@ img{
 }
 .right{
 	background: #D0D3D4;
-	width: 50%;
+	width: 45%;
 	height: auto;
 	margin:2%;
 	padding: 1%;
